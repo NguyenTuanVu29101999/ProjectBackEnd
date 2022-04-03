@@ -1,0 +1,15 @@
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\bin\Debug\net5.0\Project.BackEnd.Model.deps.json
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\bin\Debug\net5.0\Project.BackEnd.Model.dll
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\bin\Debug\net5.0\Project.BackEnd.Model.pdb
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.csproj.AssemblyReference.cache
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.AssemblyInfoInputs.cache
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.AssemblyInfo.cs
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.csproj.CoreCompileInputs.cache
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.dll
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\refint\Project.BackEnd.Model.dll
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.pdb
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\ref\Project.BackEnd.Model.dll
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\bin\Debug\net5.0\Project.BackEnd.Model.runtimeconfig.json
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\bin\Debug\net5.0\Project.BackEnd.Model.runtimeconfig.dev.json
+D:\Data\Project.BackEnd.API\Project.BackEnd.Model\obj\Debug\net5.0\Project.BackEnd.Model.genruntimeconfig.cache
