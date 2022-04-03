@@ -9463,23 +9463,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\isd_d\\.nuget\\packages\\": {},
+    "C:\\Users\\DEV\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project.BackEnd.API\\Project.BackEnd.Service\\Project.BackEnd.Service.csproj",
+      "projectUniqueName": "D:\\Data\\ProjectBackEnd\\Project.BackEnd.API\\Project.BackEnd.Service\\Project.BackEnd.Service.csproj",
       "projectName": "Project.BackEnd.Service",
-      "projectPath": "D:\\Data\\Project.BackEnd.API\\Project.BackEnd.Service\\Project.BackEnd.Service.csproj",
-      "packagesPath": "C:\\Users\\isd_d\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project.BackEnd.API\\Project.BackEnd.Service\\obj\\",
+      "projectPath": "D:\\Data\\ProjectBackEnd\\Project.BackEnd.API\\Project.BackEnd.Service\\Project.BackEnd.Service.csproj",
+      "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
+      "outputPath": "D:\\Data\\ProjectBackEnd\\Project.BackEnd.API\\Project.BackEnd.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\isd_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9494,8 +9494,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Data\\Project.BackEnd.API\\Project.BackEnd.Model\\Project.BackEnd.Model.csproj": {
-              "projectPath": "D:\\Data\\Project.BackEnd.API\\Project.BackEnd.Model\\Project.BackEnd.Model.csproj"
+            "D:\\Data\\ProjectBackEnd\\Project.BackEnd.API\\Project.BackEnd.Model\\Project.BackEnd.Model.csproj": {
+              "projectPath": "D:\\Data\\ProjectBackEnd\\Project.BackEnd.API\\Project.BackEnd.Model\\Project.BackEnd.Model.csproj"
             }
           }
         }
